@@ -1,0 +1,32 @@
+{
+  "name": "sp-eleicoes",
+  "version": "1.0.0",
+  "description": "Aplicação de apoio a decisão do eleitor para prefeito e vereadores na cidade de São Paulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edjansantos/sp-eleicoes.git"
+  },
+  "keywords": [
+    "Eleicoes",
+    "Javascript",
+    "Vanilla",
+    "SP"
+  ],
+  "author": "Edjan Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edjansantos/sp-eleicoes/issues"
+  },
+  "homepage": "https://github.com/edjansantos/sp-eleicoes",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2"
+  }
+}
